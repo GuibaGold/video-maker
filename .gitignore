@@ -62,5 +62,4 @@ typings/
 
 # credentials
 credentials/*.json
-
 content.json
