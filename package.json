@@ -18,6 +18,7 @@
   "homepage": "https://github.com/GuibaGold/video-maker#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
+    "googleapis": "^39.2.0",
     "readline-sync": "^1.4.9",
     "sbd": "^1.0.15",
     "selenium-webdriver": "^4.0.0-alpha.1",
